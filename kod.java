@@ -2,11 +2,11 @@ import java.util.Scanner;
 public class kod{
 public static void main(String[] args){
 Scanner sc=new Scanner(System.in);
-System.out.println("Vvodim znacheniye:");
+System.out.println("Enter the value:");
 int a=sc.nextInt();
-System.out.println("Vvodim znacheniye:");
+System.out.println("Enter the value:");
 int b=sc.nextInt();
-System.out.println("Viberite operasiyu") ;
+System.out.println("Select operation") ;
 System.out.println(" +");
 System.out.println(" -");
 System.out.println(" *");
